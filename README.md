@@ -12,7 +12,14 @@ Write your design steps here
 Write your design steps here
 
 ## OUTPUT:
-include your output screenshots 
+HOME PAGE
+![doc](harrr.png)
+
+MENU
+![doc](harr.png)
+
+CONTACT US
+![doc](har.png)
 
 
 ## Result:
