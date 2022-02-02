@@ -6,17 +6,23 @@ To design a wire frame for a website.
 ## DESIGN STEPS:
 
 ### Step 1:
-Write your design steps here 
+Open a New Document and resize the canvas to your desired size.
 
 ### Step 2:
-Write your design steps here
+Use the tools to design a Wire frame for the given website.
+
+### Step 3:
+Duplicate the layout and modify the further pages.
+
+### Step 4:
+Save the pages once you're done.
 
 ## OUTPUT:
 HOME PAGE
 ![doc](harrr.png)
 
 MENU
-![doc](HARSHA.png)
+![doc]
 
 CONTACT US
 ![doc](har.png)
