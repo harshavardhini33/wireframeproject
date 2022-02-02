@@ -16,7 +16,7 @@ HOME PAGE
 ![doc](harrr.png)
 
 MENU
-![doc](harr.png)
+![doc](HARSHA.png)
 
 CONTACT US
 ![doc](har.png)
