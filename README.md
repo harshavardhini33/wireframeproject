@@ -22,7 +22,7 @@ HOME PAGE
 ![doc](harrr.png)
 
 MENU
-![doc]
+![DOC](HARSHA.PNG)
 
 CONTACT US
 ![doc](har.png)
